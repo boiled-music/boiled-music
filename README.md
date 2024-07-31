@@ -5,6 +5,7 @@
 :running: Study List :running:
 -
  -Back-end : ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=%23FFFFFF)
+ 
  -Database : 
  
 :hatching_chick: My Github :hatching_chick:
