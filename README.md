@@ -10,5 +10,5 @@
 :hatching_chick: My Github :hatching_chick:
 -
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiled-music)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boiled-music)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiled-music&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boiled-music&show_icons=true&theme=onedark)
